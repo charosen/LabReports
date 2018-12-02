@@ -65,4 +65,5 @@ http://api.map.baidu.com/place/v2/search?query=银行&bounds=39.915,116.404,39.9
 2. <https://blog.csdn.net/sinat_41310868/article/details/78746094>;
 3. <https://blog.csdn.net/sinat_41310868/article/details/78746224>;
 4. <https://blog.csdn.net/sinat_41310868/article/details/78746251>;
-5. [百度地图坐标拾取器](http://api.map.baidu.com/lbsapi/getpoint/index.html);
+5. <https://blog.csdn.net/qq_34464926/article/details/79128211>;
+6. [百度地图坐标拾取器](http://api.map.baidu.com/lbsapi/getpoint/index.html);
